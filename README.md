@@ -1,1 +1,0 @@
-# 3D_reconstruction_with_stereo_camera
